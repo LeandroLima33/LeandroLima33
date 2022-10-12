@@ -2,7 +2,13 @@
 
 
 
-- 🔭 I’m currently working on the Projectiva ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, GIT and coming soon, ENGLISH!!
-- 📫 How to reach me: @__l34ndr0
+    $nome = "Leandro feitosa barros lima";
+    $idade = 34;
+    $cidadeAtual = "Osasco-SP";
+    $atualmenteAprendendo = ["html5", "css", "javascript", "php", "banco de dados", "web design"];
+
+    function digitador(){
+        return "Atualmente trabalhando em uma empresa de
+                pesquisas como digitador";
+    }
 
