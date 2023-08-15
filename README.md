@@ -1,14 +1,17 @@
 ### Hi 👋
 
+Me chamo Leandro Lima, tenho 35 anos, atualmente moro em Osasco/SP, 
+e trabalho em um escritório, em tempo integral como digitador, entre outras
+tarefas.
 
+Nesse momento estou focando meu aprendizado na linguagem python, por conta
+das possibilidades de projetos que a linguagem oferece, e também para
+aumentar minha habilidades na programação. Tenho algum conhecimento em html, 
+css e javascript.
 
-    $nome = "Leandro feitosa barros lima";
-    $idade = 34;
-    $cidadeAtual = "Osasco-SP";
-    $atualmenteAprendendo = ["html5", "css", "javascript", "php", "banco de dados", "web design"];
+Meu objetivo é avançar como programador, para poder agregar ainda mais
+valor ao local onde eu trabalho atualmente, e quem sabe no futuro migrar
+para a área de desenvolvimento, e também para desenvolver projetos pessoais.
 
-    function digitador(){
-        return "Atualmente trabalhando em uma empresa de
-                pesquisas como digitador";
-    }
+Não quero ser piegas, mas estou descobrindo uma paixão por programação!
 
