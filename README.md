@@ -17,6 +17,3 @@ Não quero ser piegas, mas estou descobrindo uma paixão por programação!
 
 
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
